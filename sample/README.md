@@ -5,11 +5,11 @@
 
 
 ## Usage
-npm  -g express
+npm install -g express
 
 npm install -g express-generator
 
-npm install -g macha
+npm install -g mocha
 
 npm install -g nano
 
